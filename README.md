@@ -2,6 +2,12 @@
 
 > Using virtual window and lowlight to render logs without innerHTML and fast.
 
+## Install
+
+```bash
+npm install --save react-logvew
+```
+
 ## Get Started
 
 ### Basic Usage
